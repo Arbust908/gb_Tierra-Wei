@@ -7,6 +7,8 @@ module.exports = {
       { text: 'Tierras de Wei', link: '/wei/'     },
       { text: 'Classes',        link: '/classes/' },
       { text: 'Clanes',         link: '/clanes/'  },
+      { text: 'Items',          link: '/items/'   },
+      { text: 'Reglas',         link: '/reglas/'  },
     ],
     sidebar: 'auto',
     displayAllHeaders: true

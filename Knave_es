@@ -1,0 +1,653 @@
+Bribón
+KNAVE es un conjunto de herramientas de reglas creado por Ben Milton para ejecutar juegos de rol de fantasía de la vieja escuela sin clases. Se espera y alienta agregar, restar y modificar reglas. Las características de Knave incluyen:
+Alta compatibilidad con juegos OSR. Si tiene una biblioteca de bestiarios de OSR, libros de aventuras y hechizos, se necesita poca o ninguna conversión para usarlos con Knave.
+Rápido para enseñar, fácil de ejecutar. Si está introduciendo a un grupo de jugadores nuevos en los juegos de OSR, Knave les permite crear personajes y entender todas las reglas en minutos.
+No hay clases. Cada PC es un Knave, un saqueador que busca incursiones y busca aventuras, que maneja un libro de hechizos con la misma facilidad que una espada. Este es un sistema ideal para los jugadores que les gusta cambiar el enfoque de su personaje de vez en cuando y no les gusta ser encasillados. El papel de una PC en la fiesta está determinado en gran medida por el equipo que llevan.
+Las habilidades son rey. Todos los rollos d20 usan las seis habilidades estándar. La forma en que funcionan los puntajes de habilidad y las bonificaciones también se ha limpiado, racionalizado y hecho coherente con el funcionamiento de otros sistemas como la armadura.
+Rollos opcionales para jugadores. Knave se adapta fácilmente a los árbitros que quieren que los jugadores hagan todo el rodaje. La conmutación entre el modelo de balanceo compartido tradicional y el de solo jugadores se puede hacer sobre la marcha sin esfuerzo.
+Estándar de cobre. Knave asume que la unidad monetaria común es el centavo de cobre. Todos los precios de los artículos utilizan esta denominación y los precios medievales reales aproximados.
+Una lista de 100 hechizos sin nivel.
+Creative Commons Attribution 4.0 International License: Usted es libre de compartir y adaptar este material para cualquier propósito, incluso comercialmente, siempre que otorgue una atribución.
+Comentario del diseñador. Las reglas incluyen comentarios del diseñador que explican por qué cada regla se escribió de la manera en que fue, para ayudar a piratear el juego.
+Creación de personaje
+1
+Las PC tienen seis habilidades: Fuerza, Destreza, Constitución, Inteligencia, Sabiduría y Carisma. Cada habilidad tiene dos valores relacionados: una defensa y una bonificación. Al crear una PC, tira 3d6 para cada una de sus habilidades, en orden. El más bajo de los tres dados en cada tirada es el bono de esa habilidad. Agrega 10 para encontrar su defensa.
+Una vez que hayas terminado de rodar, puedes intercambiar las puntuaciones de dos habilidades.
+Ejemplo: Tiras un 2, 2 y 6 para Fuerza. El dado más bajo es un 2, por lo que la Fuerza de tu PC tiene una bonificación de +2 y una defensa de 12. Repite este proceso para el resto de las habilidades.
+Nota del diseñador: "Defensa de habilidades" es mi término para lo que normalmente se llama puntajes de habilidad. Me refiero a ellos de esta manera para aclarar cómo funcionan durante los guardados opuestos, que se explicará más adelante.
+El mecánico rodante hará que la mayoría de las habilidades comiencen en 11 / + 1. El bono y la defensa de tres habilidades aumentarán en 1 punto cada vez que la PC gane un nivel, hasta un máximo de 20 / + 10 en el nivel 10. Esto pone todo en una escala intuitiva de diez puntos, y está diseñado para reflejar el camino. los bonos de ataque, los dados de golpe y los tiros de salvación en la mayoría de los juegos de OSR aumentan aproximadamente un punto por nivel.
+2
+Las PC comienzan con 2 días de raciones y un arma de la elección de su jugador. Ruede en las tablas de engranaje de arranque en la página siguiente para determinar la armadura y el equipo de arranque.
+Nota del diseñador: Rodar para iniciar el equipo acelera dramáticamente el proceso de creación del personaje, lo cual es importante si estás jugando un juego de alta letalidad como Knave. Sin embargo, si desea permitir la compra de equipos, haga que los jugadores tiren 3d6x20 para encontrar sus piezas de cobre iniciales. Tenga en cuenta que los libros de hechizos normalmente no están disponibles para las nuevas PC, pero siempre puede agregar "libro de hechizos al azar" a la tabla de Dungeoneering Gear, o simplemente permitir que las nuevas PC lancen un hechizo al azar a cambio de no comenzar con ninguna armadura.
+Las PC tienen un número de ranuras de elementos igual a su defensa de Constitución, y los elementos que llevan deben encajar en las ranuras disponibles. La mayoría de los artículos ocupan una ranura, pero algunos ocupan más. Algunos artículos pequeños se pueden agrupar en una sola ranura. Pregunte al árbitro si no está seguro.
+Nota del diseñador: las ranuras de elementos hacen que el seguimiento de la carga sea muy rápido y fácil, lo cual es importante ya que la administración de recursos es un aspecto importante del juego También representan ranuras de personalización de personajes, ya que lo que lleva un Knave ayuda en gran medida a determinar su estilo de juego y su papel en la fiesta.
+La armadura viene con un valor de defensa de armadura. Tenga en cuenta ese valor en su hoja de personaje con su correspondiente bono de armadura (siempre 10 menos que la defensa). Si la PC no está usando ninguna armadura, su defensa de armadura es 11 y su bonificación de armadura es +1.
+Nota del diseñador: "Defensa de armadura" es esencialmente el mismo concepto que la clase de armadura en la mayoría de los juegos OSR. Ha sido renombrado para enfatizar la conexión entre la forma en que funcionan y las defensas de habilidad. El bono de armadura existe para permitir que el combate se ejecute completamente de cara al jugador, como se explica en la sección de combate.
+3
+Tira 1d8 para determinar los puntos de inicio y máximo de tu PC. La tasa de curación de una PC es 1d8 + bonificación de Constitución. Su velocidad de exploración es de 120 pies por exploración tur.
+4
+Invente o enrolle el resto de los rasgos de su PC, como su cuerpo, cara, piel, cabello, ropa, virtud, vicio, habla, fondo y alineación, utilizando las tablas al azar de la página siguiente. Elige un género y un nombre para tu PC, pero no te apegues demasiado. Es un mundo peligroso por ahí.
+Nota del diseñador: aleatorizar la mayoría de los rasgos de una PC acelera la creación de personajes, pero también tiene el efecto de crear personajes únicos y sorprendentes que la mayoría de los jugadores no pensarían en inventar o jugar. +
+
+Rasgos
+Físico
+Atlético
+Musculoso
+Corpulento
+Delicado
+Gaunt Hulking
+Larguirucho
+Rasgado
+Escabroso
+Escuálido corto
+Nervudo
+Esbelto
+Flácido
+Stout escultural
+Minúsculo
+Imponente
+Cimbreño
+Nervioso
+Cara
+Hinchado
+Embotar
+Óseo
+Cincelado
+Delicada alargada
+Patricio
+Apretado
+Hawkish
+Pícaro roto
+Estrecho
+Como rata
+Redondo
+Afilado hundido
+Suave
+Cuadrado
+Amplio
+Lobo
+Piel
+Cicatriz de batalla
+Mancha de nacimiento
+Cicatriz de quemadura
+Oscuro
+Maquillaje graso
+Pálido
+Perfecto
+Perforado
+Apestoso pockmarked
+Tatuado
+Rosado
+Áspero
+Sallow Sunburned
+Bronceado
+Pintura de guerra
+Intemperizado
+Cicatriz de látigo
+Pelo
+Calvo
+Trenzado
+Erizado
+Recortada
+Rizado desaliñado
+Rastas
+Inmundo
+Rizado
+Cuello Engrasado
+Largo
+Lujoso
+Mohawk
+Cola de caballo aceitosa
+Sedoso
+Moño
+Ondulado
+Wispy
+Ropa
+Antiguo
+Sangriento
+Ceremonial
+Decorado
+Excéntrico elegante
+De moda
+Inmundo
+Extravagante
+Teñido extranjero
+Raído
+Desaliñado
+Librea
+Gran tamaño parcheado
+Perfumado
+Rancio
+Rasgado
+Sietemesino
+
+Virtud
+Ambicioso
+Cauteloso
+Valiente
+Cortés
+Curioso disciplinado
+Enfocado
+Generoso
+Gregario
+Honesto honorable
+Humilde
+Idealista
+Sólo
+Leal misericordioso
+Justo
+Sereno
+Estoico
+Tolerante
+Vicio
+Agresivo
+Arrogante
+Amargo
+Cobardemente
+Cruel engaño
+Ligero
+Glotón
+Codicioso
+Irascible Lazy
+Nervioso
+Predispuesto
+Temerario
+Grosero sospechoso
+Vano
+Vengativo
+Antieconómico
+Quejarse
+Habla
+Embotar
+En auge
+Velado
+Críptico
+Drlinging Droning
+Florido
+Formal
+Lleno de grava
+Murmullos roncos
+Preciso
+Pintoresco
+Trepador
+Dialecto de fuego rápido
+Lento
+Chirriador
+Tartamudeo
+Susurro
+Fondo
+Alquimista
+Mendigo
+Carnicero
+Ladrón
+Clérigo charlatán
+cocinar
+Cultista
+Jugador
+Herbolario Mago
+Marinero
+Mercenario
+Comerciante
+Artista Outlaw
+Carterista
+Contrabandista
+Estudiante
+Rastreador
+Desgracias
+Abandonado
+Fanático
+Chantajeado
+Condenado
+Maldito defraudado
+Degradado
+Desacreditado
+Repudiado
+Enmarcado exiliado
+Obsesionado
+Secuestrado
+Mutilado
+Pobre perseguido
+Rechazado
+Reemplazado
+Robado
+Sospechado
+Alineación
+1-5:
+Ley 6-15:
+Neutralidad 16-20:
+Caos
+
+Engranaje de arranque
+Armadura
+1-3:
+Sin armadura 4-14:
+Gambeson 15-19:
+Brigandine 20:
+Cadena
+Cascos y escudos
+1-13:
+Ninguna 14-16:
+Casco 17-19:
+Escudo 20:
+Casco y escudo
+Equipo de mazmorra
+Pase dos veces en esta tabla y una vez en las dos siguientes.
+Cuerda, 50 pies
+Poleas
+Velas, 5
+Cadena, 10 pies
+Tiza, 10 Palanca
+Tinderbox
+Grap. gancho
+Martillo
+Linterna de piel
+Lampara de aceite
+Candado
+Esposas
+Poste de espejo, 10 pies
+Saco
+Tienda
+Espigas, 5
+Antorchas, 5
+General Gear 1
+Vejiga de aire
+Trampa para osos
+Pala
+Fuelle
+Sierra de grasa
+Cangilón
+Caltrops
+Cincel
+Pescado taladro. barra
+Canicas
+pegamento
+Recoger
+Red de reloj de arena
+Tenazas
+Lockpicks
+Lima metálica
+Uñas
+General Gear 2
+Incienso
+Esponja
+Lente
+Perfume
+Botella de cuerno
+Jabón
+Catalejo
+Olla de alquitrán
+Guita joyas falsas
+Libro en blanco
+Baraja de carta
+Conjunto de dados
+Ollas de cocina pintura de la cara
+Silbar
+Instrumento
+Pluma y tinta
+Campanilla
+
+Costos del artículo
+
+Todos los precios se dan en monedas de cobre. El pago de cosas como barcos, bienes raíces, etc., generalmente toma la forma de bienes comerciales, favores o juramentos de lealtad en lugar de monedas.
+
+Herramientas y equipo
+Vejiga de aire 5
+Trampa de osos 20
+Rollo de cama 10
+Fuelle 10
+Grasa Negra 1
+Bloque y Tackle 30
+Libro (en blanco) 300
+Libro (Lectura) 600
+Botella / Vial 1
+Cubo 5
+Caltrops (bolsa) 10
+Cartas con un Ace 5 extra.
+Cadena (10 pies) 10
+Tiza (10 piezas) 1
+Cincel 5
+Ollas 10
+Palanca 10
+Taladro 10
+Pintura para la cara / Maquillaje 10
+Joyas falsas 50
+Caña de pescar / Tackle 10
+Canicas De Cristal (Bolsa) 5
+Pegamento (botella) 1
+Gancho de agarre 10
+Martillo 10
+Agua bendita 25
+Cuerno 10
+Reloj de arena 300
+Incienso (paquete) 10
+Pinzas de hierro 10
+Escalera (10 pies) 10
+Esponja grande 5
+Lente 100
+Lockpicks 100
+Esposas 10
+Lima de metal 5
+Espejo (pequeño, plata) 200
+Instrumento musical 200
+Uñas (12) 5
+Neto 10
+Bolso De Oleo 5
+Pantalones de piel 10
+Candado y llave 20
+Perfume 50
+Elige 10
+Polo (10 pies) 5
+Pluma y tinta 1
+Cuerda (50 pies) 10
+Saco 1
+Sierra 10
+Juego de dados cargados 5
+Pala 10
+Campana pequeña 20
+Jabon 1
+Espiga (hierro) 5
+Espiga (madera) 1
+Botas de pinchos 5
+Catalejo 1000
+Alquitrán (olla) 10
+Tienda de campaña (3 hombres) 100
+Tienda (personal) 50
+Guita (300 pies) 5
+Piel de agua 5
+Silbato 5
+Ligero
+Vela, 4 horas 1
+Linterna 30
+Lampara Aceite, 4 horas 5
+Tinderbox 10
+Antorcha, 1 hora 1
+Armadura
+Proteger
+(Defensa +1, 1 ranura, 1 calidad) 40
+Casco
+(Defensa +1, 1 ranura, 1 calidad) 40
+Gambeson
+(Defensa 12, 1 ranura, 3 calidad) 60
+Brigandina
+(Defensa 13, 2 slots, 4 calidad) 500
+Cadena
+(Defensa 14, 3 ranuras, 5 calidad) 1200
+Media placa
+(Defensa 15, 4 slots, 6 calidad) 4000
+Plato lleno
+(Defensa 16, 5 slots, 7 calidad) 8000
+
+Las armas
+Daga, Cudgel, Hoz, Bastón, etc. (D6 daños, 1 ranura, 1 mano, 3 calidad) 5
+Lanza, espada, maza, hacha, flail, etc. (daño d8, 2 ranuras, 1 mano, 3 calidad) 10
+Alabarda, Martillo de guerra, Espada larga, Hacha de batalla, etc. (daño de d10, 3 ranuras, 2 manos, 3 de calidad) 20
+
+Eslinga (daño d4, 1 ranura, 1 mano, 3 calidad) 5
+Arco (daño d6, 2 ranuras,
+2 manos, 3 calidades) 15
+Ballesta (daño d8, 3 ranuras, 2 manos, 3 calidades) 60
+Flechas (20) 5
+Aljaba (capacidad 20) 10
+Ropa
+Pobre 10
+Standard 50
+Noble 3000
+Pieles 5000
+Invierno 100
+Comida
+Raciones de viaje (1 día) 5
+Alimentación animal (1 día) 2
+Bacon, lado de 10
+Pan, 1 pan 1
+Queso, 1 libra 2
+Sidra, 4 galones 1
+Bacalao, entero 20
+Huevos, 24 1
+Harina, 5 lbs 1
+Fruta, 1 libra 1
+Ajo, manojo 1
+Grano, 1 bushel (8 gal.) 4
+Hierbas, 1 manojo 1
+Manteca de cerdo, 5 libras 1
+Cebollas, 1 bushel 8
+Sal, 1 bushel 3
+Especias, 1 libra 100
+Azúcar, 1 libra 12
+Vino / cerveza, botella 1
+Los animales
+Pollo 1
+Vaca 100
+Perro, caza 50
+Perro, pequeño pero vicioso 20
+Burro / Pack Caballo 300
+Cabra 10
+Hawk 1000
+Caballo, equitación 1000
+Caballo, guerra 10.000.
+Buey 300
+Cerdo 30
+Ovejas 15
+Alojamiento
+Cama, por noche 1
+Habitación privada, por noche 2
+Comida 2
+Baño caliente 2
+Estacas y forrajes 2
+Los barcos
+Nave, alta calidad 720 / ton
+Nave, buena calidad 480 / ton
+Nave, calidad usada 240 / ton.
+Nave, de baja calidad 120 / ton.
+Balsa 50
+Barco de pesca 500
+Sloop 5000
+Carabela 25,000
+Galeón 125,000
+Transporte
+Carro 320
+Carrito 50
+Vagón 120
+Henchmen
+Los salarios son por día, sin incluir alimentos, suministros, vivienda, etc.
+Obrero 1
+Escriba 2
+Arquero 3
+Mason 4
+Hombre de armas, a pie 6
+Armero o herrero 8
+Man-at-arms, montado 12
+Maestro constructor 15
+Peluquero-cirujano 25
+Caballero 25
+Edificios
+Pala 120
+Casa de la fila 1200
+Casa del artesano 2400.
+Casa del comerciante 7200
+Casa con patio 21.600
+Casa de clanes 32.600
+Torre de piedra 48,000
+Templo 75,000
+Bastión 100.000
+Catedral 500,000
+Palacio imperial 2,500,000
+
+
+Jugando el juego
+Habilidades
+Cada una de las seis habilidades se usa en diferentes circunstancias.
+Fuerza: se usa para ataques cuerpo a cuerpo y para salvar que requieren potencia física, como levantar puertas, doblar barras, etc.
+Destreza: se utiliza para los salvamentos que requieren equilibrio, velocidad y reflejos, como esquivar, escalar, hacer furtivamente, hacer balance, etc.
+Constitución: se usa para salvar a los venenos, enfermedades, resfríos, etc. La bonificación de Constitución se agrega a las tiradas de curación. El número de ranuras de ítems de una PC siempre es igual a su defensa de Constitución.
+Inteligencia: se usa para los salvamentos que requieren concentración y precisión, como empuñar magia, resistir efectos mágicos, recordar tradiciones, crear objetos, manipular maquinaria, recoger bolsillos, etc.
+Sabiduría: se utiliza para ataques a distancia y para salvar que requieren percepción e intuición, como rastrear, navegar, buscar puertas secretas, detectar ilusiones, etc.
+Carisma: se usa para salvar a persuadir, engañar, interrogar, intimidar, encantar, provocar, etc. Las PC pueden emplear un número de secuaces igual a su bonificación de Carisma.
+Nota del diseñador: en un sistema que se basa tanto en las seis habilidades, es importante que cada uno de ellos juegue un papel importante, para desalentar las estadísticas de volcado. Los personajes no mágicos tienden a deshacerse de las habilidades mentales, por ejemplo, así que aumenté su utilidad.
+Ranuras del artículo
+Las PC tienen un número de ranuras de elementos igual a su defensa de Constitución. La mayoría de los artículos, incluidos los libros de hechizos, las pociones, las raciones de un día, las armas ligeras, las herramientas, etc., ocupan 1 espacio, pero en particular los artículos pesados ​​o voluminosos como armaduras o armas medianas a pesadas pueden ocupar más espacios. Los grupos de elementos pequeños e idénticos pueden agruparse en la misma ranura, a discreción del árbitro. 100 monedas pueden caber en una ranura. Como norma general, una ranura tiene alrededor de 5 libras de peso.
+Nota del diseñador: el uso de las ranuras de elementos hace que el estorbo sea tan simple que los jugadores
+Nota del diseñador: el uso de las ranuras de elementos hace que el estorbo sea lo suficientemente simple como para que los jugadores estén dispuestos a rastrearlo. Las ranuras también son la clave para la personalización del personaje, ya que el equipo de una PC ayuda a determinar quiénes son. Levantar la Constitución, por lo tanto, probablemente será una prioridad para la mayoría de los personajes.
+Tiros de salvación
+Si un personaje intenta algo donde el resultado es incierto y el fracaso tiene consecuencias, hacen una tirada de salvación o "salvan". Para hacer un ahorro, agrega la bonificación de la habilidad relevante a un lanzamiento de d20. Si el total es mayor que 15, el personaje tiene éxito. Si no, fallan.
+Nota del diseñador: exigir que se ahorren más de 15 significa que las PC nuevas tienen aproximadamente un 25% de probabilidad de éxito, mientras que los personajes del nivel 10 tienen aproximadamente un 75% de probabilidad de éxito, ya que las bonificaciones de habilidad pueden obtener hasta 10 puntos por nivel 10. Esto refleja el Patrón general encontrado en la mecánica de salvar de los primeros D&D.
+Si otro personaje se opone a la salvación, entonces, en lugar de aspirar a superar los 15, el equipo que realiza la tirada debe obtener un total mayor que la puntuación de defensa relevante del personaje adverso para tener éxito. Si fallan, el lado opuesto tiene éxito. Este tipo de guardado se denomina guardado opuesto. Tenga en cuenta que no importa qué lado haga la rotación, ya que las probabilidades de éxito siguen siendo las mismas.
+Ejemplo: un mago lanza un hechizo de bola de fuego a un duende, quien obtiene una tirada de salvación para evitar. Esto se resuelve como un guardado opuesto utilizando la Inteligencia del asistente contra la Destreza del duende. El goblin puede tirar más su bonificación de Destreza, con la esperanza de superar la defensa de Inteligencia del mago o el asistente puede tirar más su bonificación de Inteligencia, con la esperanza de superar la defensa de Destreza del goblin.
+Nota del diseñador: el puntaje de defensa de una habilidad es esencialmente su tirada promedio. Requerir que el equipo rodante derrote a la defensa contraria permite que los concursos se resuelvan más rápidamente, elimina la posibilidad de empates y permite que el juego se ejecute con los jugadores haciendo todo el juego si así lo desean, ya que las probabilidades de éxito son las mismas no importa de qué lado rueda.
+Si hay factores de situación que hacen que una partida sea mucho más fácil o más difícil, el árbitro puede otorgar la ventaja o desventaja en la tirada. Si una tirada tiene ventaja, tira 2d20 y usa el mejor de los dos dados. Si tiene desventaja, tira 2d20 y usa el peor de los dos dados.
+Nota del diseñador: el árbitro, por supuesto, es libre de imponer modificadores positivos o negativos en lugar de usar el sistema de ventajas, pero la mayoría de los jugadores parecen disfrutarlo y simplifica los cálculos.
+Reacciones
+Cuando las PC se encuentran con un NPC cuya reacción ante el grupo no es obvia, el árbitro puede tirar 2d6 y consultar la siguiente tabla.
+2 3-5 6-8 9-11 12
+Hablar hostil hostil poco seguro
+Combate
+Al comienzo de cada ronda de combate, determina la iniciativa tirando un d6. En un 1-3, todos los enemigos actuarán primero. En un 4-6 todas las PC actuarán primero. Rolizar la iniciativa en cada ronda.
+Nota del diseñador: el uso de una iniciativa de grupo simple acelera el combate, mantiene a todos los jugadores comprometidos y evita la contabilidad. La iniciativa de relanzamiento en cada ronda hace que el combate sea más peligroso, ya que es posible que un lado vaya dos veces seguidas.
+En su turno, un personaje puede mover su velocidad (generalmente 40 pies) y tomar hasta una acción de combate. Esta acción puede ser lanzar un hechizo, hacer un segundo movimiento, realizar un ataque, intentar un truco o cualquier otra acción que el árbitro considere razonable.
+Las armas cuerpo a cuerpo pueden golpear a enemigos adyacentes, pero las armas a distancia no se pueden usar si el personaje que dispara está en combate cuerpo a cuerpo. Para realizar un ataque, tira un d20 y agrega la bonificación de Fuerza o Sabiduría del personaje, dependiendo de si están usando un arma cuerpo a cuerpo o a distancia, respectivamente. Si el total de ataque es mayor que la defensa de armadura del defensor, el ataque impacta. Si no, el ataque falla.
+Alternativamente, una tirada de ataque también puede ser resuelta por el defensor lanzando un d20 y agregando su bonificación de armadura, con la esperanza de tirar un total mayor que la defensa de la habilidad que está usando el atacante. Si tienen éxito, el ataque falla. Si fallan, el ataque golpea.
+Nota del diseñador: En otras palabras, los ataques se resuelven de la misma manera que las salvaciones opuestas, simplemente usando Armadura en lugar de una habilidad.
+En un golpe, el atacante tira el dado de daño de su arma para determinar cuántos Puntos de golpe (HP) pierde el defensor. Un dado de daño adicional del tipo de arma se puede agregar a la tirada si el arma ideal se usó contra un tipo de enemigo (por ejemplo, usando un arma contundente contra un esqueleto).
+Cuando un personaje llega a 0 HP, están inconscientes. Cuando alcanzan -1 HP o menos, están muertos. Los jugadores deben enrollar una nueva PC de nivel 1 cuando muera la anterior, y deben volver a unirse a la fiesta lo antes posible.
+Trucos
+Los trucos son maniobras de combate como aturdir, empujar, desarmar, disparar, desarmar armaduras, etc. Se resuelven con un salvado contra. Es posible que no causen daño directamente, pero pueden hacerlo indirectamente (por ejemplo, empujar a un enemigo fuera de una cornisa). El árbitro es el árbitro final en cuanto a qué trucos pueden intentarse en una situación dada
+Ventaja en el combate
+Los personajes pueden obtener ventaja en el combate al atacar a un objetivo que no está al tanto, en un terreno más bajo, desequilibrado, desarmado, distraído o tácticamente en desventaja de alguna manera significativa. El árbitro, como de costumbre, tiene la última palabra.
+Cuando un personaje tiene ventaja contra un oponente en su turno de combate, puede: A.) Aplicar ventaja a su tirada de ataque o hacer un truco contra ese oponente o B). Realizar un ataque y un intento de doble en la misma ronda contra ese oponente, sin ventaja.
+Golpes críticos y calidad
+Durante una tirada de ataque, si el atacante tira un 20 natural o el defensor lanza un 1 natural, la armadura del defensor pierde 1 punto de calidad y recibe un dado adicional de daño (del tipo de arma). Si el atacante tira un 1 natural o el defensor lanza un 20 natural, el arma del atacante pierde 1 punto de calidad. En calidad 0, el artículo es destruido. Cada punto de calidad cuesta el 10% del costo de reparación del artículo.
+Nota del diseñador: la lenta degradación de su equipo es otro reloj de recursos que recorre durante largas incursiones en las mazmorras junto a puntos de golpe, hechizos, antorchas, etc.
+Moral
+Todos los monstruos y PNJ tienen una calificación de moral, generalmente entre 5 y 9. Cuando enfrentan más peligro de lo que esperaban, el árbitro lanzará una tirada de moral rodando 2d6 y comparando el resultado con la calificación de moral de la APN. Si la tirada es más alta que la clasificación, el NPC intentará huir, retirarse o parlamentar. Las tiradas de moral pueden activarse derrotando a la mitad de un grupo enemigo, derrotando al líder de un grupo o reduciendo a un enemigo solitario a la mitad de HP. Otros efectos pueden desencadenar una tirada de moral a discreción del árbitro.
+Hirelings también hace tiradas de moral cuando no se les paga, su empleador muere o enfrentan un peligro extraordinario. La moral también se puede mejorar pagando más a los empleados y tratándolos bien.
+Curación
+Después de una comida y un descanso de una noche completa, las PC recuperan los puntos de golpe perdidos equivalentes a un d8 más su bonificación de Constitución. Descansando en un refugio seguro restaura todos los HP perdidos.
+Nota del diseñador: los bonos de Constitución no afectan los puntos de golpe máximos como en la mayoría de los juegos de OSR, pero es una gran ayuda cuando se trata de curación.
+Monstruos
+Todos los monstruos de los bestiarios de OSR deberían trabajar como están en Knave sin necesidad de una conversión importante. Aquí hay algunas pautas.
+Dados de golpe / Puntos de golpe: Se puede asumir que todos los dados de golpe de monstruo son d8s a menos que se especifique lo contrario. Para obtener los puntos de golpe del monstruo, simplemente multiplica el número de dados de golpe que tienen por 4 (o 5 si te sientes malvado).
+Armadura: Monster AC (si es ascendente) es idéntica a la defensa de armadura. Si el AC está descendiendo, restarlo de 19 (si es de OD&D o B / X D&D) o de 20 (si es de AD&D) para encontrar su equivalente ascendente.
+Bono de ataque: cualquier bono de ataque dado no se modifica, y puede agregarse tanto a ataques cuerpo a cuerpo como a distancia. Si no se otorga una bonificación de ataque, asume que es el mismo que el número de dados de golpe del monstruo.
+Daño: El daño sigue siendo el mismo.
+Moral: La calificación de Moral sigue siendo la misma.
+Guarda: dado que los monstruos OSR generalmente no vienen con puntajes de habilidad, asume que los monstruos tienen bonos de habilidad iguales a su nivel, con las defensas de habilidad correspondientes.
+Ejemplo: Un monstruo típico de 4 HD tendría una bonificación de +4 y una defensa de 14 en todas sus habilidades por defecto, a menos que el árbitro lo modifique.
+Nota del diseñador: Debido a la escala unificada de 1 a 10 de Knave, los monstruos y los NPC esencialmente agregan sus dados o niveles de golpe a cualquier ataque o salvación que hagan. Obviamente, esto debe ser ajustado por el árbitro cuando no tiene sentido.
+Adelanto
+Cada vez que una PC acumula 1000 XP, ganan un nivel. Como guía, las PC reciben 50 XP por logros de bajo riesgo, 100 XP por logros de riesgo moderado y 200 XP por logros de alto riesgo. El árbitro debe notificar libremente a las PC de cuánto valen los diferentes objetivos de XP cuando se les solicita.
+Nota del diseñador: esta es la forma en que ejecuto el avance porque es simple y fácil de entender. Por supuesto, el cambio en el avance de hitos, el avance de sesión o un sistema de XP por moneda funciona perfectamente bien. Si usa XP para oro o plata, tenga en cuenta que una pieza de oro es 100 de cobre y una pieza de plata es de 10 de cobre.
+Cuando una PC gana un nivel, tira una cantidad de d8s igual a su nuevo nivel para encontrar su nuevo máximo de HP. Si el resultado es menor que su máximo anterior, su HP máximo aumenta en 1. También aumentan las puntuaciones de defensa y de bonificación de 3 habilidades diferentes de su elección en 1 punto. Las habilidades nunca pueden ser elevadas por encima de 20 / + 10.
+Nota del diseñador: También puedes aumentar habilidades al azar si quieres. Mi método preferido es tirar un d20 para cada habilidad, en cualquier orden, elevando esa habilidad en 1 si la tirada es menor que la defensa de esa habilidad. Continúe recorriendo las habilidades, deteniéndose cuando tres habilidades hayan avanzado y saltándose cualquier habilidad que haya alcanzado el máximo. En este método, los talentos naturales tenderán a avanzar más rápido que las debilidades, lo que hace que las PC sean más variadas y especializadas.
+mágico
+Las listas de hechizos de cualquier juego de rol de la vieja escuela funcionarán perfectamente bien en Knave, siempre que vayan al noveno nivel. Hay muchas listas gratuitas de hechizos clásicos disponibles en línea.
+En Knave, las PC solo pueden lanzar hechizos de su nivel o menos, por lo que una PC de nivel 3 solo podría lanzar hechizos de nivel 0 a 3. Los hechizos se sacan de los libros de hechizos, que deben sostenerse con ambas manos y leerse en voz alta. Cada libro de hechizos solo se puede usar una vez al día. Es importante destacar que cada libro de hechizos solo contiene un único hechizo, y cada libro de hechizos ocupa un espacio de elementos, por lo que si una PC quiere poder lanzar una gran variedad de hechizos, tendrán que llenar la mayor parte de su inventario con libros de hechizos. .
+Nota del diseñador: siempre me parece extraño que los niveles de hechizo no correspondan al nivel de PC en la mayoría de los juegos de OSR. Bueno, ahora lo hacen. También tomé la noción abstracta de ranuras de hechizos y las convertí en algo concreto; Las PC pueden lanzar tantos hechizos como puedan llevar físicamente. Impulse la Constitución si desea que su PC lleve consigo esa biblioteca móvil.
+Las PC no pueden crear, copiar o transcribir libros de hechizos. Para obtener nuevos libros de hechizos, las PC deben aventurarse por ellos, ya sea recuperándolos de las mazmorras o robándolos de otros magos. Cuanto más alto es el nivel del libro de hechizos, más raro y valioso es. Es probable que los bandidos y magos que buscan "adquirirlos" persigan abiertamente a las PC que llevan abiertamente libros de hechizos de alto nivel.
+Cuando un hechizo permite una salvación, haz que una Inteligencia opuesta salve contra la habilidad relevante del defensor, generalmente Destreza para hechizos de ataque a distancia, Constitución para hechizos que agotan la vida, Inteligencia para hechizos que alteran la mente o Sabiduría para ilusiones.
+Nota del diseñador: Tenga en cuenta que los libros de hechizos se pueden volver a colocar fácilmente como piedras de runas, tabletas de arcilla, pociones, pergaminos o cualquier otra cosa que se ajuste a su campaña. Por ejemplo, si quisieras una configuración más peligrosa y con poca magia, podrías hacer pociones o pergaminos de libros de hechizos que solo se usan una vez y luego se pierden para siempre. El generador de hechizos aleatorios que se encuentra en mi otro juego, Maze Rats, puede ser útil para generar ideas para nuevos hechizos.
+
+Hechizos de 100 niveles sin nivel
+Si prefieres hechizos que no tengan nivel y se amplíen a medida que el lanzador se haga más poderoso, usa la siguiente lista. En los siguientes hechizos, "L" es un número igual al nivel del lanzador, un objeto es un objeto que se puede levantar con una mano y un objeto es cualquier cosa hasta el tamaño humano. A menos que se indique lo contrario, todos los hechizos con efectos continuos duran hasta L × 10 minutos y tienen un alcance de hasta 40 pies. Si un hechizo afecta directamente a otra criatura, la criatura puede hacer una salvación para evitarlo (como se describió anteriormente). El éxito reduce o niega los efectos del hechizo.
+Adherir: El objeto está cubierto de limo extremadamente pegajoso.
+Objeto animado: el objeto obedece tus órdenes lo mejor que puede. Puede caminar 15 pies por ronda.
+Antropomorfizar: Un animal tocado gana inteligencia humana o apariencia humana durante L días.
+Ojo Arcano: puedes ver a través de un mágico globo ocular flotante que vuela alrededor de tu comando.
+Prisión astral: un objeto se congela en el tiempo y el espacio dentro de una cáscara de cristal invulnerable.
+Atraiga: los objetos L + 1 están fuertemente atraídos magnéticamente entre sí si están a 10 pies.
+Ilusión auditiva: usted crea sonidos ilusorios que parecen provenir de una dirección de su elección.
+Balbuceo: una criatura debe repetir en voz alta y clara todo lo que piensas De lo contrario es mudo.
+Forma de bestia: Tú y tus posesiones se transforman en un animal mundano.
+Befuddle: Las criaturas L de tu elección no pueden formar nuevos recuerdos a corto plazo durante la duración del hechizo.
+Bend Fate: Roll L + 1 d20s. Siempre que debas tirar un d20 después de lanzar el hechizo, debes elegir y luego descartar uno de los resultados del rollo hasta que desaparezcan.
+Persona Pájaro: Tus brazos se convierten en enormes alas de pájaro.
+Intercambio de cuerpo: cambias de cuerpo con una criatura que tocas. Si un cuerpo muere, el otro muere también.
+Catherine: Una mujer que lleva un vestido azul aparece hasta el final del hechizo. Ella obedecerá las peticiones educadas y seguras.
+Encanto: Las criaturas te tratan como a un amigo.
+Comando: Una criatura obedece a un solo comando de tres palabras que no lo daña.
+Comprender: Te vuelves fluido en todos los idiomas.
+Plantas de control: las plantas y los árboles cercanos te obedecen y pueden moverse a 5 pies por asalto.
+Control del clima: puede alterar el tipo de clima a voluntad, pero no lo controla de otra manera.
+Contrahechizo: haz una inteligencia opuesta, excepto la Inteligencia del lanzador de un hechizo cercano. Puedes hacer esto fuera de turno como reacción, o contra un efecto mágico continuo. En caso de éxito, puedes cancelar el hechizo.
+Sordos: Todas las criaturas cercanas están sordas.
+Detectar magia: escuchas el aura mágica cercana cantando. El volumen y la armonía significan el poder y el refinamiento del aura.
+Desmonte: Cualquiera de las partes de su cuerpo se puede separar y volver a unir a voluntad, sin causar dolor o daño. Todavía puedes controlarlos.
+Disfraz: puedes alterar la apariencia de los personajes L a voluntad siempre que sigan siendo humanoides. Los intentos de duplicar otros personajes parecerán incansables
+Desplazar: un objeto parece estar a L × 10 pies de su posición real.
+Terremoto: El suelo comienza a temblar violentamente. Las estructuras pueden estar dañadas o colapsadas.
+Elasticidad: tu cuerpo puede estirarse hasta L × 10 pies.
+Pared elemental: una pared recta de hielo o fuego de L × 40 pies de largo y 10 pies de altura desde el suelo.
+Filch: L elementos visibles se teletransportan a sus manos.
+Nube de niebla: la niebla densa se extiende hacia ti.
+Frenesí: L criaturas estallan en un frenesí de violencia.
+Puerta: se abre un portal a un plano aleatorio.
+Cambio de gravedad: puede cambiar la dirección de la gravedad (solo para usted) hasta una vez por ronda.
+Avaricia: Las criaturas L desarrollan un impulso abrumador de poseer un objeto visible de tu elección.
+Prisa: tu velocidad de movimiento se triplica.
+Odio: Las criaturas L desarrollan un odio profundo hacia otra criatura o grupo de criaturas y desean destruirlo.
+Escucha susurros: puedes escuchar claramente sonidos débiles.
+Hover: Un objeto se cierne, sin fricción, a 2 pies sobre el suelo. Puede soportar hasta L humanoides.
+Hipnotizar: una criatura entra en trance y responderá con sinceridad L sí o no a las preguntas que le haga.
+Toque helado: una gruesa capa de hielo se extiende sobre una superficie tocada, hasta L × 10 pies de radio.
+Iluminar: una luz flotante se mueve como tú ordenas.
+Aumentar la gravedad: la gravedad en un área se triplica.
+Atadura invisible: dos objetos a una distancia de 10 pies entre sí no se pueden mover a más de 10 pies de distancia.
+Golpe: L cerraduras mundanas o mágicas cercanas se desbloquean.
+Salto: Puedes saltar hasta L × 10 pies en el aire.
+Aire líquido: El aire a tu alrededor se puede nadar.
+Amortiguador mágico: Todos los efectos mágicos cercanos tienen su efectividad a la mitad.
+Manse: Una casa de campo robusta y amueblada aparece durante L × 12 horas. Usted puede permitir y prohibir la entrada a ella a voluntad.
+Locura de mármol: tus bolsillos están llenos de canicas y se rellenarán en cada ronda.
+Masquerade: Las apariencias y voces de los personajes L se vuelven idénticas a las de un personaje tocado.
+Miniaturizar: Tú y L otras criaturas tocadas se reducen al tamaño de un ratón.
+Imagen de espejo: L ilusorios duplicados de ti mismo aparecen bajo tu control.
+Mirrorwalk: un espejo se convierte en una puerta de entrada a otro espejo que miraste hoy.
+Multiarm: Ganas L armas extra.
+Esfera nocturna: Aparece una amplia esfera de oscuridad de 40 × 60 pies que muestra el cielo nocturno.
+Objetificar: te conviertes en cualquier objeto inanimado entre el tamaño de un piano de cola y una manzana.
+Forma de moco: Te conviertes en una jalea viva.
+Pacifica: Las criaturas L tienen una aversión a la violencia.
+Entrenador fantasma: aparece un entrenador fantasmal hasta el final del hechizo. Se mueve anormalmente rápido en cualquier terreno, incluyendo el agua.
+Fobia: las criaturas L se aterrorizan de un objeto de tu elección.
+Hoyo: Un hoyo de 10 pies de ancho y L × 5 pies de profundidad se abre en el suelo.
+Oleada primigenia: un objeto crece hasta el tamaño de un elefante. Si es un animal, se enfurece.
+Psicometría: el árbitro responde L sí o no preguntas sobre un objeto tocado.
+Tirar: un objeto de cualquier tamaño se tira directamente hacia ti con la fuerza de L men para una ronda.
+Empujar: un objeto de cualquier tamaño se aleja directamente de ti con la fuerza de L men durante una ronda.
+Raise Dead: L esqueletos se levantan del suelo para servirte. Son increíblemente estúpidos y solo pueden obedecer órdenes simples.
+Levantar espíritu: El espíritu de un cuerpo muerto se manifiesta y responderá a L preguntas.
+Lea la mente: puede escuchar los pensamientos superficiales de las criaturas cercanas.
+Repeler: Los objetos L + 1 son fuertemente repelidos magnéticamente entre sí si están a 10 pies.
+Scry: Puedes ver a través de los ojos de una criatura que tocaste hoy.
+Elementos esculpidos: Todo el material inanimado se comporta como arcilla en tus manos.
+Cubierta: las criaturas L son invisibles hasta que se mueven.
+Aleatorio: L criaturas cambian de lugar instantáneamente. Determine dónde terminan al azar.
+Dormir: las criaturas L caen en un sueño ligero.
+Forma de humo: Tu cuerpo se convierte en humo vivo.
+Caballero del caracol: 10 minutos después del lanzamiento, un caballero sentado a horcajadas en un caracol gigante monta a la vista. Es capaz de responder a la mayoría de las preguntas relacionadas con misiones y caballerosidad, y puede ayudarlo si lo encuentra digno.
+Oler: se puede oler incluso los rastros más débiles de los olores.
+Ordenar: los elementos inanimados se ordenan según las categorías que establezca. Las categorías deben ser visualmente verificables.
+Espectáculo: Una ilusión claramente irreal pero impresionante de tu elección aparece, bajo tu control. Puede ser del tamaño de un palacio y tiene movimiento y sonido completos.
+Spellseize: lanza esto como una reacción a otro hechizo que se dispara para hacer una copia temporal del mismo que puedes lanzar en cualquier momento antes de que finalice este hechizo.
+Spider Climb: puedes escalar superficies como una araña.
+Cubo de invocación: Una vez por segundo, (6 veces por ronda) puedes invocar o desterrar un cubo de tierra de 3 pies de ancho. Los nuevos cubos deben colocarse en la tierra o en otros cubos.
+Enjambre: te conviertes en un enjambre de cuervos, ratas o pirañas. Solo recibes daño de los efectos del área.
+Telekinesis: puedes mover mentalmente L elementos.
+Telepatía: las criaturas L + 1 pueden escuchar los pensamientos de los demás, sin importar lo lejos que se muevan.
+Teletransporte: un objeto desaparece y reaparece en el suelo en un área clara y visible de hasta L × 40 pies de distancia.
+Ancla taumatúrgica: el objeto se convierte en el objetivo de cada hechizo lanzado cerca de él.
+Matorral: brota un arbusto de árboles y un pincel denso de hasta L × 40 pies de ancho.
+Salto en el tiempo: un objeto desaparece a medida que salta L × 10 minutos en el futuro. Cuando regresa, aparece en el área desocupada más cercana a donde se fue.
+Summon Idol: Una estatua de piedra tallada del tamaño de una cama con dosel se eleva desde el suelo.
+Time Rush: El tiempo en una burbuja de 40 pies comienza a moverse 10 veces más rápido.
+Tiempo lento: el tiempo en una burbuja de 40 pies se ralentiza al 10%.
+Verdadera vista: se ve a través de todas las ilusiones cercanas.
+Upwell: Aparece un manantial de agua de mar.
+Visión: Tú controlas completamente lo que ve una criatura.
+Ilusión visual: aparece una ilusión silenciosa e inmóvil de tu elección, hasta el tamaño de un dormitorio.
+Ward: Un círculo plateado de 40 pies de ancho aparece en el suelo. Elige una cosa que no pueda cruzarla: criaturas vivas, criaturas muertas, proyectiles o metal.
+Web: Tus muñecas pueden disparar correas gruesas.
+Marca de mago: tu dedo puede disparar un chorro de pintura de color ulfire. Esta pintura solo es visible para usted, y puede verse a cualquier distancia, incluso a través de objetos sólidos.
+Visión de rayos X: Ganas visión de rayos X.
+Gracias
+Knave fue posible gracias al aliento, los comentarios y la asistencia de mis partidarios de Patreon. https://www.patreon.com/questingbeast.
+Un agradecimiento especial se debe a todos los miembros de la comunidad DIY DND en Google+.
+Este juego se realizó utilizando las fuentes gratuitas Crimson Text y Sebaldus-Gotisch.
