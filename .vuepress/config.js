@@ -5,10 +5,10 @@ module.exports = {
     nav: [
       { text: 'Home',           link: '/'         },
       { text: 'Tierras de Wei', link: '/wei/'     },
-      { text: 'Classes',        link: '/classes/' },
+      /* { text: 'Classes',        link: '/classes/' }, */
       { text: 'Clanes',         link: '/clanes/'  },
-      { text: 'Items',          link: '/items/'   },
-      { text: 'Reglas',         link: '/reglas/'  },
+      /* { text: 'Items',          link: '/items/'   }, */
+      /* { text: 'Reglas',         link: '/reglas/'  }, */
     ],
     sidebar: 'auto',
     displayAllHeaders: true

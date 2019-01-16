@@ -4,6 +4,8 @@
 
 En las tierras de Wei hay 7 grandes Clanes que dominan las tierras
 
+![Tierras de Wei](/img/TierraWei_Divicion_de_Clanes.jpg "Tierras de Wei")
+
 <!-- ## Los Clanes
 * Leon ![Clan Lion](/img/25px-Lion.png "El Clan del Lion")
 * Garza ![Clan Crane](/img/25px-Crane.png "El Clan del Crane")
